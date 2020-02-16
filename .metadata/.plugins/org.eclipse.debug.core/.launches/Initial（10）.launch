@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/16Java中的包装类/src/com/_04date和SimpleDateFormat类表示时间/Initial.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com._04date和SimpleDateFormat类表示时间.Initial"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="16Java中的包装类"/>
+</launchConfiguration>

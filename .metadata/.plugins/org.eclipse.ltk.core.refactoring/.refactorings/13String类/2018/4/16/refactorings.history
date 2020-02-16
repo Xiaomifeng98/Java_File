@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="将包“com.StringBuffer”移至“14StringBuffer类/src”&#x0D;&#x0A;－ 原始项目：“13字符串”&#x0D;&#x0A;－ 目标元素：“14StringBuffer类/src”&#x0D;&#x0A;－ 原始元素：“13字符串/src/com.StringBuffer”&#x0D;&#x0A;－ 更新对已重构元素的引用" description="移动包" destination="=14StringBuffer类/src" element1="/src&lt;com.StringBuffer" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1523877766698" version="1.0"/>
+</session>

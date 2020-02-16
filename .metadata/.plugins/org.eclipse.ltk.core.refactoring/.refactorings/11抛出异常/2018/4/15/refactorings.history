@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.Try_Catch_Finally&apos; to &apos;com.抛出异常&apos;&#x0D;&#x0A;- Original project: &apos;11抛出异常&apos;&#x0D;&#x0A;- Original element: &apos;11抛出异常/src/com.Try_Catch_Finally&apos;&#x0D;&#x0A;- Renamed element: &apos;11抛出异常/src/com.抛出异常&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.Try_Catch_Finally&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;com.Try_Catch_Finally" name="com.抛出异常" qualified="false" references="true" stamp="1523359691369" textual="false" version="1.0"/>
+</session>

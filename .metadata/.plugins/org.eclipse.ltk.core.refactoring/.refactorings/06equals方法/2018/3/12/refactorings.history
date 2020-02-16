@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.equals方法.Equals方法&apos; to &apos;Telephone&apos;&#x0D;&#x0A;- Original project: &apos;05equals方法&apos;&#x0D;&#x0A;- Original element: &apos;com.equals方法.Equals方法&apos;&#x0D;&#x0A;- Renamed element: &apos;com.equals方法.Telephone&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Equals方法&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.equals方法{Equals方法.java[Equals方法" matchStrategy="1" name="Telephone" qualified="false" references="true" similarDeclarations="false" stamp="1521550506062" textual="false" version="1.0"/>
+</session>
